@@ -1,0 +1,12 @@
+{
+    "Name": "After School Cookie Time!",
+    "ID": "AfterSchoolCookieTime",
+    "Author": "jt-owo",
+    "Description": "Replaces various images like cookies and the wrinklers with Kotobuki Tsumugi from K-ON!",
+    "ModVersion": 1.1,
+    "GameVersion": 2.052,
+    "Date": "06/30/2024",
+    "Dependencies": [],
+    "Disabled": 0,
+    "AllowSteamAchievs": 1
+}
